@@ -1,5 +1,5 @@
 # Exits
-[exits](/images/Exits%201U%20Panel.jpg)
+![exits](/images/Exits%201U%20Panel.jpg)
 
 4hp DIY eurorack line and headphone output module based on [Exits](https://github.com/ramphands/Exits) which is in part based on [Nearness](https://github.com/sarnesjo/nearness) and [Forestcaver headphone amp](https://github.com/forestcaver/Analog-Voice/tree/master/AJH_Headphone_Amp) designs. 
 
