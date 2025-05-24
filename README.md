@@ -21,6 +21,12 @@ The [kicad](Kicad) directory contains the schematic and PCB layout as a KiCad 6 
 
 Available in the [panel](Panel) directory as a PDF and an SVG vector file as well as PCB design and gerbers.
 
+## Intellijel Output Pinout
+
+This module has a six pin connector on the back meant to be compatible with outputs on Intellijel and Befaco cases. Pinouts match per the diagram below. Outputs are not balanced.  
+
+![pinout](/images/ij-pinout.jpg)
+
 ## License
 
 [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
