@@ -23,7 +23,7 @@ Available in the [panel](Panel) directory as a PDF and an SVG vector file as wel
 
 ## Intellijel Output Pinout
 
-This module has a six pin connector on the back meant to be compatible with outputs on Intellijel and Befaco cases. Pinouts match per the diagram below. Outputs are not balanced.  
+This module has a six pin connector on the back meant to be compatible with outputs on Intellijel and Befaco cases. Pinouts match per the diagram below. Outputs are not balanced.  Note that if you want to mount this module on the far right hand side of the case both the output and power ribbon cables need to be low-profile.  
 
 ![pinout](/images/ij-pinout.jpg)
 
