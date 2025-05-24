@@ -15,11 +15,11 @@ This design makes the following changes:
 
 ## Schematic and PCBs
 
-The [kicad](kicad) directory contains the schematic and PCB layout as a KiCad 6 project.
+The [kicad](Kicad) directory contains the schematic and PCB layout as a KiCad 6 project.
 
 ## Panel
 
-Available in the [panel](panel) directory as a PDF and an SVG vector file as well as PCB design and gerbers.
+Available in the [panel](Panel) directory as a PDF and an SVG vector file as well as PCB design and gerbers.
 
 ## License
 
